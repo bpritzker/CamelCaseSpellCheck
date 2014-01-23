@@ -46,7 +46,7 @@ public class DictionaryPruner {
 			
 		}
 		bw.close();
-		
+		scanner.close();
 	}
 
 
