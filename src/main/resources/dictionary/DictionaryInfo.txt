@@ -1,0 +1,11 @@
+
+
+Dictionary from:
+http://www.cs.princeton.edu/introcs/data/words.utf-8.txt
+
+The pruned dictionary is more than 2 MB smaller
+Modified to save space:
+1) Removed all words with 3 or less characters
+2) Removed all words with apostrophes
+
+
