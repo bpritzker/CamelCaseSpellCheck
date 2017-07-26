@@ -1,0 +1,20 @@
+# These are words that we do NOT want to check for.
+# A lot of them are substring from the Wikipedia List of Common Misspellings, we don't want to remove them from
+#    the misspellings file because then, every time we wanted to update the file we would need to remember to
+#    delete them. Instead it's better to have an exclude file so the substrings are just not checked for.
+# It also give us more control to remove custom words if we find they are causing problems.
+
+ect
+clas
+proces
+doub
+larg
+specif
+addres
+beng
+onot
+
+
+
+
+

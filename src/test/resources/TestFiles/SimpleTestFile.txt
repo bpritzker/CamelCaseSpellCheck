@@ -1,0 +1,17 @@
+
+
+FIND: seperator
+FIND: notificaiton
+FIND: reslut
+FIND: definatley
+FIND: lenght     FIND: fiel
+
+
+
+DoNotFind: ect
+DoNotFind: clas
+
+DoNotFind: class
+
+
+

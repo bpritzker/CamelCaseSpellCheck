@@ -1,0 +1,26 @@
+# These are common misspellings for developers
+
+seperator->separator
+notificaiton->notification
+reslut->result
+definatley->definitely
+lenght->length
+fiel->file
+fomr->from
+accidently->accidentally
+durring->during
+milisecond->millisecond
+becomming->becoming
+visable->visible
+applicaiton->application
+wrtier->writer
+desinged->designed
+produciton->production
+maintaince->Maintenance
+environemtn->environment
+excpetion->exception
+thorwing->throwing
+direcotry->directory
+
+
+
